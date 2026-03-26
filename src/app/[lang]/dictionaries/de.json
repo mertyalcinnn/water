@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "title": "Saraylar Diyari Water Sports | Wassersport in Antalya",
+    "description": "Jet-Ski, Parasailing, Flyboard und weitere Wassersportarten am Konyaalti-Strand in Antalya. Über 15 Jahre Erfahrung, professionelles Team.",
+    "ogTitle": "Saraylar Diyari Water Sports | Wassersport in Antalya",
+    "ogDescription": "Jet-Ski, Parasailing, Flyboard und weitere Wassersportarten am Konyaalti-Strand in Antalya. Über 15 Jahre Erfahrung, professionelles Team."
+  },
+  "navbar": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "about": "Über uns",
+    "gallery": "Galerie",
+    "contact": "Kontakt",
+    "reservation": "Reservierung",
+    "reservationMobile": "Reservieren"
+  },
+  "hero": {
+    "seasonBadge": "Konyaalti Strand • Täglich 09:30 - 18:00",
+    "headingLine1": "Spüre den",
+    "headingLine2": "Adrenalinkick",
+    "headingLine3": "Auf den Wellen",
+    "subtitle": "Unvergessliche Erlebnisse an der Küste von Konyaalti in Antalya: Jet-Ski, Parasailing, Flyboard und vieles mehr.",
+    "ctaExplore": "Aktivitäten entdecken",
+    "ctaWhatsApp": "Per WhatsApp kontaktieren",
+    "statActivities": "Aktivitäten",
+    "statExperience": "Jahre Erfahrung",
+    "statRating": "Google-Bewertung",
+    "scrollDiscover": "Entdecken"
+  },
+  "services": {
+    "sectionLabel": "Unsere Leistungen",
+    "heading1": "Wassersport",
+    "heading2": "Aktivitäten",
+    "description": "Sicherer Spaß für jedes Niveau mit professioneller Ausrüstung und erfahrenen Trainern.",
+    "detail": "Details",
+    "items": [
+      {
+        "title": "Jet-Ski",
+        "description": "Erleben Sie adrenalingeladene Momente beim Wellenreiten mit Höchstgeschwindigkeit."
+      },
+      {
+        "title": "Parasailing",
+        "description": "Genießen Sie aus 150 Metern Höhe den einzigartigen Blick auf die Küste von Antalya."
+      },
+      {
+        "title": "Flyboard",
+        "description": "Erleben Sie den Nervenkitzel des Fliegens über dem Wasser mit professionellen Trainern."
+      },
+      {
+        "title": "Banana-Boot",
+        "description": "Lustiges Gruppenerlebnis für die ganze Familie und Freunde."
+      },
+      {
+        "title": "Wakeboard & Wasserski",
+        "description": "Genießen Sie klassisches Wasserski oder modernes Wakeboarden."
+      },
+      {
+        "title": "Private Bootstour",
+        "description": "Private Bootstouren zum Düden-Wasserfall und zum Sonnenuntergang."
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "Über uns",
+    "heading1": "Der aufregendste",
+    "heading2": "Wassersport",
+    "heading3": "in Antalya",
+    "description": "Als Saraylar Diyari bieten wir seit über 15 Jahren Wassersport am Konyaalti-Strand in Antalya an. Mit unserem professionellen Team und modernster Ausrüstung garantieren wir sichere und unvergessliche Erlebnisse.",
+    "cta": "Kontaktieren Sie uns",
+    "features": [
+      {
+        "title": "Sicherheit zuerst",
+        "desc": "Internationale Sicherheitsstandards"
+      },
+      {
+        "title": "Erfahrenes Team",
+        "desc": "Zertifizierte professionelle Trainer"
+      },
+      {
+        "title": "Premium-Ausrüstung",
+        "desc": "Modernste Wassersportausrüstung"
+      },
+      {
+        "title": "Einzigartige Lage",
+        "desc": "Am schönsten Strand von Konyaalti"
+      }
+    ],
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Jahre Erfahrung"
+      },
+      {
+        "value": "10K+",
+        "label": "Zufriedene Gäste"
+      },
+      {
+        "value": "10+",
+        "label": "Verschiedene Aktivitäten"
+      },
+      {
+        "value": "4.2",
+        "label": "Google-Bewertung"
+      }
+    ]
+  },
+  "gallery": {
+    "sectionLabel": "Galerie",
+    "heading1": "Momente",
+    "heading2": "in Bildern",
+    "instagramCta": "Folgen Sie uns auf Instagram",
+    "items": [
+      {
+        "title": "Jet-Ski",
+        "subtitle": "Adrenalin"
+      },
+      {
+        "title": "Parasailing",
+        "subtitle": "Himmelsabenteuer"
+      },
+      {
+        "title": "Flyboard",
+        "subtitle": "Extrem"
+      },
+      {
+        "title": "Banana-Boot",
+        "subtitle": "Familienspaß"
+      },
+      {
+        "title": "Bootstour",
+        "subtitle": "Düden-Wasserfall"
+      },
+      {
+        "title": "Sonnenuntergang",
+        "subtitle": "Malerischer Ausblick"
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Kontakt",
+    "heading": "Kontaktieren Sie uns",
+    "description": "Für Reservierungen und Informationen können Sie uns jederzeit erreichen.",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "value": "+90 544 830 20 17",
+      "description": "Schreiben Sie uns für schnelle Kommunikation",
+      "cta": "Öffnen"
+    },
+    "phone": {
+      "title": "Telefon",
+      "value": "+90 544 830 20 17",
+      "description": "Rufen Sie uns an für weitere Informationen",
+      "cta": "Anrufen"
+    },
+    "address": {
+      "title": "Adresse",
+      "value": "Konyaalti Strandpark",
+      "description": "Meltem Mah., Strand Nr. 4, Muratpasa",
+      "cta": "Öffnen"
+    }
+  },
+  "footer": {
+    "description": "Seit über 15 Jahren bieten wir Wassersport am Konyaalti-Strand in Antalya an. Sichere, professionelle und unvergessliche Erlebnisse.",
+    "pagesTitle": "Seiten",
+    "infoTitle": "Informationen",
+    "hours": "Täglich 09:30 - 18:00",
+    "phone": "+90 544 830 20 17",
+    "location": "Konyaalti Strandpark, Antalya",
+    "copyright": "\u00a9 2026 Saraylar Diyari Water Sports. Alle Rechte vorbehalten.",
+    "company": "SKD Group — Antalya, Türkei"
+  },
+  "whatsapp": {
+    "ariaLabel": "Per WhatsApp kontaktieren"
+  },
+  "languageSwitcher": {
+    "tr": "Türkçe",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "title": "Saraylar Diyarı Water Sports | Antalya Su Sporları",
+    "description": "Antalya Konyaaltı sahilinde jet ski, parasailing, flyboard, banana boat ve daha fazlası. Unutulmaz bir su sporları deneyimi için Saraylar Diyarı!",
+    "ogTitle": "Saraylar Diyarı Water Sports",
+    "ogDescription": "Antalya'nın en heyecan verici su sporları deneyimi"
+  },
+  "navbar": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "gallery": "Galeri",
+    "contact": "İletişim",
+    "reservation": "Rezervasyon",
+    "reservationMobile": "Rezervasyon Yap"
+  },
+  "hero": {
+    "seasonBadge": "Konyaaltı Sahili • Her Gün 09:30 - 18:00",
+    "headingLine1": "Adrenalini",
+    "headingLine2": "Dalgalarda",
+    "headingLine3": "Hisset",
+    "subtitle": "Antalya Konyaaltı sahilinde jet ski, parasailing, flyboard ve daha fazlası ile unutulmaz bir deneyim yaşayın.",
+    "ctaExplore": "Aktiviteleri Keşfet",
+    "ctaWhatsApp": "WhatsApp ile Ara",
+    "statActivities": "Aktivite",
+    "statExperience": "Yıl Deneyim",
+    "statRating": "Google Puan",
+    "scrollDiscover": "Keşfet"
+  },
+  "services": {
+    "sectionLabel": "Hizmetlerimiz",
+    "heading1": "Su Sporları",
+    "heading2": "Aktiviteleri",
+    "description": "Her seviyeye uygun, profesyonel ekipmanlar ve deneyimli eğitmenler eşliğinde güvenli eğlencenin keyfini çıkarın.",
+    "detail": "Detay",
+    "items": [
+      {
+        "title": "Jet Ski",
+        "description": "Yüksek hızda dalgaları yararak adrenalin dolu anlar yaşayın."
+      },
+      {
+        "title": "Parasailing",
+        "description": "150m yükseklikten Antalya sahilinin eşsiz manzarasını görüntüleyin."
+      },
+      {
+        "title": "Flyboard",
+        "description": "Su üstünde uçmanın heyecanını profesyonel eğitmenlerle yaşayın."
+      },
+      {
+        "title": "Banana Boat",
+        "description": "Aile ve arkadaşlarla birlikte eğlenceli grup deneyimi."
+      },
+      {
+        "title": "Wakeboard & Su Kayağı",
+        "description": "Klasik su kayağı veya modern wakeboard ile sörfün keyfini çıkarın."
+      },
+      {
+        "title": "Özel Tekne Turu",
+        "description": "Düden Şelalesi ve günbatımı özel tekne turları."
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "Hakkımızda",
+    "heading1": "Antalya'nın En",
+    "heading2": "Heyecan Verici",
+    "heading3": "Su Sporları",
+    "description": "Saraylar Diyarı olarak, Antalya Konyaaltı sahilinde 15 yılı aşkın süredir su sporları hizmeti sunuyoruz. Profesyonel ekibimiz ve son model ekipmanlarımızla güvenli ve unutulmaz deneyimler yaşatıyoruz.",
+    "cta": "Bize Ulaşın",
+    "features": [
+      {
+        "title": "Güvenlik Öncelikli",
+        "desc": "Uluslararası güvenlik standartları"
+      },
+      {
+        "title": "Deneyimli Kadro",
+        "desc": "Sertifikalı profesyonel eğitmenler"
+      },
+      {
+        "title": "Premium Ekipman",
+        "desc": "Son model su sporları ekipmanları"
+      },
+      {
+        "title": "Eşsiz Lokasyon",
+        "desc": "Konyaaltı'nın en güzel plajında"
+      }
+    ],
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Yıl Deneyim"
+      },
+      {
+        "value": "10K+",
+        "label": "Mutlu Misafir"
+      },
+      {
+        "value": "10+",
+        "label": "Farklı Aktivite"
+      },
+      {
+        "value": "4.2",
+        "label": "Google Puan"
+      }
+    ]
+  },
+  "gallery": {
+    "sectionLabel": "Galeri",
+    "heading1": "Anlardan",
+    "heading2": "Kareler",
+    "instagramCta": "Instagram'da takip edin",
+    "items": [
+      {
+        "title": "Jet Ski",
+        "subtitle": "Adrenalin Dolu"
+      },
+      {
+        "title": "Parasailing",
+        "subtitle": "Gökyüzü Macerası"
+      },
+      {
+        "title": "Flyboard",
+        "subtitle": "Ekstrem Deneyim"
+      },
+      {
+        "title": "Banana Boat",
+        "subtitle": "Aile Eğlencesi"
+      },
+      {
+        "title": "Tekne Turu",
+        "subtitle": "Düden Şelalesi"
+      },
+      {
+        "title": "Günbatımı",
+        "subtitle": "Eşsiz Manzara"
+      }
+    ]
+  },
+  "contact": {
+    "sectionLabel": "İletişim",
+    "heading": "Bize Ulaşın",
+    "description": "Rezervasyon ve bilgi için bize her zaman ulaşabilirsiniz.",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "value": "+90 544 830 20 17",
+      "description": "Hızlı iletişim için yazın",
+      "cta": "Aç"
+    },
+    "phone": {
+      "title": "Telefon",
+      "value": "+90 544 830 20 17",
+      "description": "Bizi arayın, bilgi alın",
+      "cta": "Ara"
+    },
+    "address": {
+      "title": "Adres",
+      "value": "Konyaaltı Sahil Parkı",
+      "description": "Meltem Mah. 4 Nolu Plaj, Muratpaşa",
+      "cta": "Aç"
+    }
+  },
+  "footer": {
+    "description": "Antalya Konyaaltı sahilinde 15 yılı aşkın tecrübemizle su sporları hizmeti sunuyoruz. Güvenli, profesyonel ve unutulmaz deneyimler.",
+    "pagesTitle": "Sayfalar",
+    "infoTitle": "Bilgiler",
+    "hours": "Her Gün 09:30 - 18:00",
+    "phone": "+90 544 830 20 17",
+    "location": "Konyaaltı Sahil Yaşam Parkı, Antalya",
+    "copyright": "2026 Saraylar Diyarı Water Sports. Tüm hakları saklıdır.",
+    "company": "SKD Group — Antalya, Türkiye"
+  },
+  "whatsapp": {
+    "ariaLabel": "WhatsApp ile iletişime geçin"
+  },
+  "languageSwitcher": {
+    "tr": "Türkçe",
+    "en": "English",
+    "ru": "Русский",
+    "de": "Deutsch"
+  }
+}
