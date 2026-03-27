@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
+import { WHATSAPP_URL } from "@/lib/site";
 
 interface WhatsAppButtonProps {
   dict: Dictionary["whatsapp"];
@@ -18,7 +19,7 @@ export default function WhatsAppButton({ dict }: WhatsAppButtonProps) {
 
   return (
     <a
-      href="https://wa.me/905448302017"
+      href={WHATSAPP_URL}
       target="_blank"
       rel="noopener noreferrer"
       className={`fixed bottom-5 right-5 z-50 transition-all duration-500 sm:bottom-6 sm:right-6 ${

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Saraylar Diyari Water Sports | Antalya Water Sports",
-    "description": "Jet ski, parasailing, flyboard, banana boat and more on Antalya's Konyaalti beach. An unforgettable water sports experience with Saraylar Diyari!",
+    "description": "Jet ski, parasailing, flyboard, banana boat and more on Antalya's Aksu coast. An unforgettable water sports experience with Saraylar Diyari!",
     "ogTitle": "Saraylar Diyari Water Sports",
     "ogDescription": "Antalya's most thrilling water sports experience"
   },
@@ -15,11 +15,11 @@
     "reservationMobile": "Make a Reservation"
   },
   "hero": {
-    "seasonBadge": "Konyaalti Beach • Every Day 09:30 - 18:00",
+    "seasonBadge": "Kemeragzi, Aksu • Every Day 09:30 - 18:00",
     "headingLine1": "Feel the",
     "headingLine2": "Adrenaline",
     "headingLine3": "on the Waves",
-    "subtitle": "Experience the thrill of jet ski, parasailing, flyboard and more on Antalya's Konyaalti beach.",
+    "subtitle": "Experience the thrill of jet ski, parasailing, flyboard and more on Antalya's Aksu coast.",
     "ctaExplore": "Explore Activities",
     "ctaWhatsApp": "Call via WhatsApp",
     "statActivities": "Activities",
@@ -65,7 +65,7 @@
     "heading1": "Antalya's Most",
     "heading2": "Exciting",
     "heading3": "Water Sports",
-    "description": "At Saraylar Diyari, we have been providing water sports services on Antalya's Konyaalti beach for over 15 years. We deliver safe and unforgettable experiences with our professional team and state-of-the-art equipment.",
+    "description": "At Saraylar Diyari, we have been providing water sports services on Antalya's Aksu coast for over 15 years. We deliver safe and unforgettable experiences with our professional team and state-of-the-art equipment.",
     "cta": "Contact Us",
     "features": [
       {
@@ -82,7 +82,7 @@
       },
       {
         "title": "Unique Location",
-        "desc": "On Konyaalti's finest beach"
+        "desc": "On Aksu's shoreline"
       }
     ],
     "stats": [
@@ -142,30 +142,30 @@
     "description": "You can always reach us for reservations and information.",
     "whatsapp": {
       "title": "WhatsApp",
-      "value": "+90 544 830 20 17",
+      "value": "0532 589 46 43",
       "description": "Message us for quick response",
       "cta": "Open"
     },
     "phone": {
       "title": "Phone",
-      "value": "+90 544 830 20 17",
+      "value": "0532 589 46 43",
       "description": "Call us for information",
       "cta": "Call"
     },
     "address": {
       "title": "Address",
-      "value": "Konyaalti Beach Park",
-      "description": "Meltem District, Beach No. 4, Muratpasa",
+      "value": "Kemeragzi Public Beach No. 3",
+      "description": "Kemeragzi District, between Aska Lara Royal and Seginus Hotel beach, Aksu Antalya",
       "cta": "Open"
     }
   },
   "footer": {
-    "description": "We have been providing water sports services on Antalya's Konyaalti beach for over 15 years. Safe, professional, and unforgettable experiences.",
+    "description": "We have been providing water sports services on Antalya's Aksu coast for over 15 years. Safe, professional, and unforgettable experiences.",
     "pagesTitle": "Pages",
     "infoTitle": "Information",
     "hours": "Every Day 09:30 - 18:00",
-    "phone": "+90 544 830 20 17",
-    "location": "Konyaalti Beach Life Park, Antalya",
+    "phone": "0532 589 46 43",
+    "location": "Kemeragzi District, Aksu Antalya",
     "copyright": "2026 Saraylar Diyari Water Sports. All rights reserved.",
     "company": "SKD Group — Antalya, Turkey"
   },

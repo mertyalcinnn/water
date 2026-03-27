@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useState, useEffect } from "react";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
+import { BRAND_LOCATION, WHATSAPP_URL } from "@/lib/site";
 import LanguageSwitcher from "./LanguageSwitcher";
 
 interface NavbarProps {
@@ -85,7 +86,7 @@ export default function Navbar({ dict, locale, langLabels }: NavbarProps) {
             </div>
             <div className="flex flex-col">
               <span className={`text-[0.68rem] font-medium uppercase tracking-[0.24em] ${palette.muted}`}>
-                Konyaalti Beach Park
+                {BRAND_LOCATION}
               </span>
               <span className={`font-display text-lg leading-none ${palette.brand}`}>
                 SARAYLAR D&#304;YARI
@@ -112,7 +113,7 @@ export default function Navbar({ dict, locale, langLabels }: NavbarProps) {
               theme={isScrolled ? "light" : "dark"}
             />
             <a
-              href="https://wa.me/905448302017"
+              href={WHATSAPP_URL}
               target="_blank"
               rel="noopener noreferrer"
               className={palette.buttonClass}
@@ -173,7 +174,7 @@ export default function Navbar({ dict, locale, langLabels }: NavbarProps) {
             ))}
             <div className="mt-3">
               <a
-                href="https://wa.me/905448302017"
+                href={WHATSAPP_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block rounded-2xl px-5 py-3 text-center text-sm font-semibold"

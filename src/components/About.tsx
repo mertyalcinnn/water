@@ -1,4 +1,5 @@
 import type { Dictionary } from "@/app/[lang]/dictionaries";
+import { WHATSAPP_URL } from "@/lib/site";
 
 const statIcons = [
   "M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z",
@@ -40,7 +41,7 @@ export default function About({ dict }: AboutProps) {
             </p>
 
             <a
-              href="https://wa.me/905448302017"
+              href={WHATSAPP_URL}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-light mt-10 px-6 py-3.5"

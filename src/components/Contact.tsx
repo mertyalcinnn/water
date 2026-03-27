@@ -1,8 +1,9 @@
 import type { Dictionary } from "@/app/[lang]/dictionaries";
+import { MAPS_EMBED_URL, MAPS_QUERY_URL, PHONE_URL, WHATSAPP_URL } from "@/lib/site";
 
 const cardsMeta = [
   {
-    href: "https://wa.me/905448302017",
+    href: WHATSAPP_URL,
     external: true,
     icon: (
       <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor">
@@ -13,7 +14,7 @@ const cardsMeta = [
     key: "whatsapp" as const,
   },
   {
-    href: "tel:+905448302017",
+    href: PHONE_URL,
     external: false,
     icon: (
       <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
@@ -24,7 +25,7 @@ const cardsMeta = [
     key: "phone" as const,
   },
   {
-    href: "https://maps.google.com/?q=Meltem+Mahallesi+Konyaalti+Beach+Park+Antalya",
+    href: MAPS_QUERY_URL,
     external: true,
     icon: (
       <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
@@ -138,7 +139,7 @@ export default function Contact({ dict, hours }: ContactProps) {
 
               <div className="mt-6 flex flex-col gap-3 sm:flex-row">
                 <a
-                  href="https://wa.me/905448302017"
+                  href={WHATSAPP_URL}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-light px-5 py-3"
@@ -146,7 +147,7 @@ export default function Contact({ dict, hours }: ContactProps) {
                   {dict.whatsapp.title}
                 </a>
                 <a
-                  href="https://maps.google.com/?q=Meltem+Mahallesi+Konyaalti+Beach+Park+Antalya"
+                  href={MAPS_QUERY_URL}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-secondary-dark px-5 py-3"
@@ -158,7 +159,7 @@ export default function Contact({ dict, hours }: ContactProps) {
 
             <div className="overflow-hidden rounded-[2rem] border border-navy-950/8 bg-white shadow-[0_22px_55px_rgba(8,26,34,0.1)]">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3191.1!2d30.6388!3d36.8773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzbCsDUyJzM4LjMiTiAzMMKwMzgnMTkuNyJF!5e0!3m2!1str!2str!4v1"
+                src={MAPS_EMBED_URL}
                 width="100%"
                 height="390"
                 style={{ border: 0 }}

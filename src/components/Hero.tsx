@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
+import { WHATSAPP_URL } from "@/lib/site";
 
 interface HeroProps {
   dict: Dictionary["hero"];
@@ -76,7 +77,7 @@ export default function Hero({
               </a>
 
               <a
-                href="https://wa.me/905448302017"
+                href={WHATSAPP_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-secondary-dark px-7 py-4"

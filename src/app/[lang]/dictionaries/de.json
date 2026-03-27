@@ -1,9 +1,9 @@
 {
   "metadata": {
     "title": "Saraylar Diyari Water Sports | Wassersport in Antalya",
-    "description": "Jet-Ski, Parasailing, Flyboard und weitere Wassersportarten am Konyaalti-Strand in Antalya. Über 15 Jahre Erfahrung, professionelles Team.",
+    "description": "Jet-Ski, Parasailing, Flyboard und weitere Wassersportarten an der Küste von Aksu in Antalya. Über 15 Jahre Erfahrung, professionelles Team.",
     "ogTitle": "Saraylar Diyari Water Sports | Wassersport in Antalya",
-    "ogDescription": "Jet-Ski, Parasailing, Flyboard und weitere Wassersportarten am Konyaalti-Strand in Antalya. Über 15 Jahre Erfahrung, professionelles Team."
+    "ogDescription": "Jet-Ski, Parasailing, Flyboard und weitere Wassersportarten an der Küste von Aksu in Antalya. Über 15 Jahre Erfahrung, professionelles Team."
   },
   "navbar": {
     "home": "Startseite",
@@ -15,11 +15,11 @@
     "reservationMobile": "Reservieren"
   },
   "hero": {
-    "seasonBadge": "Konyaalti Strand • Täglich 09:30 - 18:00",
+    "seasonBadge": "Kemeragzi, Aksu • Täglich 09:30 - 18:00",
     "headingLine1": "Spüre den",
     "headingLine2": "Adrenalinkick",
     "headingLine3": "Auf den Wellen",
-    "subtitle": "Unvergessliche Erlebnisse an der Küste von Konyaalti in Antalya: Jet-Ski, Parasailing, Flyboard und vieles mehr.",
+    "subtitle": "Unvergessliche Erlebnisse an der Küste von Aksu in Antalya: Jet-Ski, Parasailing, Flyboard und vieles mehr.",
     "ctaExplore": "Aktivitäten entdecken",
     "ctaWhatsApp": "Per WhatsApp kontaktieren",
     "statActivities": "Aktivitäten",
@@ -65,7 +65,7 @@
     "heading1": "Der aufregendste",
     "heading2": "Wassersport",
     "heading3": "in Antalya",
-    "description": "Als Saraylar Diyari bieten wir seit über 15 Jahren Wassersport am Konyaalti-Strand in Antalya an. Mit unserem professionellen Team und modernster Ausrüstung garantieren wir sichere und unvergessliche Erlebnisse.",
+    "description": "Als Saraylar Diyari bieten wir seit über 15 Jahren Wassersport an der Küste von Aksu in Antalya an. Mit unserem professionellen Team und modernster Ausrüstung garantieren wir sichere und unvergessliche Erlebnisse.",
     "cta": "Kontaktieren Sie uns",
     "features": [
       {
@@ -82,7 +82,7 @@
       },
       {
         "title": "Einzigartige Lage",
-        "desc": "Am schönsten Strand von Konyaalti"
+        "desc": "An der Küste von Aksu"
       }
     ],
     "stats": [
@@ -142,30 +142,30 @@
     "description": "Für Reservierungen und Informationen können Sie uns jederzeit erreichen.",
     "whatsapp": {
       "title": "WhatsApp",
-      "value": "+90 544 830 20 17",
+      "value": "0532 589 46 43",
       "description": "Schreiben Sie uns für schnelle Kommunikation",
       "cta": "Öffnen"
     },
     "phone": {
       "title": "Telefon",
-      "value": "+90 544 830 20 17",
+      "value": "0532 589 46 43",
       "description": "Rufen Sie uns an für weitere Informationen",
       "cta": "Anrufen"
     },
     "address": {
       "title": "Adresse",
-      "value": "Konyaalti Strandpark",
-      "description": "Meltem Mah., Strand Nr. 4, Muratpasa",
+      "value": "Kemeragzi Öffentlicher Strand Nr. 3",
+      "description": "Kemeragzi Mahallesi, zwischen Aska Lara Royal und Seginus Hotel Strand, Aksu Antalya",
       "cta": "Öffnen"
     }
   },
   "footer": {
-    "description": "Seit über 15 Jahren bieten wir Wassersport am Konyaalti-Strand in Antalya an. Sichere, professionelle und unvergessliche Erlebnisse.",
+    "description": "Seit über 15 Jahren bieten wir Wassersport an der Küste von Aksu in Antalya an. Sichere, professionelle und unvergessliche Erlebnisse.",
     "pagesTitle": "Seiten",
     "infoTitle": "Informationen",
     "hours": "Täglich 09:30 - 18:00",
-    "phone": "+90 544 830 20 17",
-    "location": "Konyaalti Strandpark, Antalya",
+    "phone": "0532 589 46 43",
+    "location": "Kemeragzi Mahallesi, Aksu Antalya",
     "copyright": "\u00a9 2026 Saraylar Diyari Water Sports. Alle Rechte vorbehalten.",
     "company": "SKD Group — Antalya, Türkei"
   },

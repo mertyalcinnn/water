@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Saraylar Diyarı Water Sports | Antalya Su Sporları",
-    "description": "Antalya Konyaaltı sahilinde jet ski, parasailing, flyboard, banana boat ve daha fazlası. Unutulmaz bir su sporları deneyimi için Saraylar Diyarı!",
+    "description": "Antalya Aksu sahilinde jet ski, parasailing, flyboard, banana boat ve daha fazlası. Unutulmaz bir su sporları deneyimi için Saraylar Diyarı!",
     "ogTitle": "Saraylar Diyarı Water Sports",
     "ogDescription": "Antalya'nın en heyecan verici su sporları deneyimi"
   },
@@ -15,11 +15,11 @@
     "reservationMobile": "Rezervasyon Yap"
   },
   "hero": {
-    "seasonBadge": "Konyaaltı Sahili • Her Gün 09:30 - 18:00",
+    "seasonBadge": "Kemeragzi, Aksu • Her Gün 09:30 - 18:00",
     "headingLine1": "Adrenalini",
     "headingLine2": "Dalgalarda",
     "headingLine3": "Hisset",
-    "subtitle": "Antalya Konyaaltı sahilinde jet ski, parasailing, flyboard ve daha fazlası ile unutulmaz bir deneyim yaşayın.",
+    "subtitle": "Antalya Aksu sahilinde jet ski, parasailing, flyboard ve daha fazlası ile unutulmaz bir deneyim yaşayın.",
     "ctaExplore": "Aktiviteleri Keşfet",
     "ctaWhatsApp": "WhatsApp ile Ara",
     "statActivities": "Aktivite",
@@ -65,7 +65,7 @@
     "heading1": "Antalya'nın En",
     "heading2": "Heyecan Verici",
     "heading3": "Su Sporları",
-    "description": "Saraylar Diyarı olarak, Antalya Konyaaltı sahilinde 15 yılı aşkın süredir su sporları hizmeti sunuyoruz. Profesyonel ekibimiz ve son model ekipmanlarımızla güvenli ve unutulmaz deneyimler yaşatıyoruz.",
+    "description": "Saraylar Diyarı olarak, Antalya Aksu sahilinde 15 yılı aşkın süredir su sporları hizmeti sunuyoruz. Profesyonel ekibimiz ve son model ekipmanlarımızla güvenli ve unutulmaz deneyimler yaşatıyoruz.",
     "cta": "Bize Ulaşın",
     "features": [
       {
@@ -82,7 +82,7 @@
       },
       {
         "title": "Eşsiz Lokasyon",
-        "desc": "Konyaaltı'nın en güzel plajında"
+        "desc": "Aksu sahilinde seçkin konum"
       }
     ],
     "stats": [
@@ -142,30 +142,30 @@
     "description": "Rezervasyon ve bilgi için bize her zaman ulaşabilirsiniz.",
     "whatsapp": {
       "title": "WhatsApp",
-      "value": "+90 544 830 20 17",
+      "value": "0532 589 46 43",
       "description": "Hızlı iletişim için yazın",
       "cta": "Aç"
     },
     "phone": {
       "title": "Telefon",
-      "value": "+90 544 830 20 17",
+      "value": "0532 589 46 43",
       "description": "Bizi arayın, bilgi alın",
       "cta": "Ara"
     },
     "address": {
       "title": "Adres",
-      "value": "Konyaaltı Sahil Parkı",
-      "description": "Meltem Mah. 4 Nolu Plaj, Muratpaşa",
+      "value": "Kemeragzi 3 Nolu Halk Plaji",
+      "description": "Kemeragzi Mahallesi, Aska Lara Royal Seginus Hotel plaji ortasi, Aksu Antalya",
       "cta": "Aç"
     }
   },
   "footer": {
-    "description": "Antalya Konyaaltı sahilinde 15 yılı aşkın tecrübemizle su sporları hizmeti sunuyoruz. Güvenli, profesyonel ve unutulmaz deneyimler.",
+    "description": "Antalya Aksu sahilinde 15 yılı aşkın tecrübemizle su sporları hizmeti sunuyoruz. Güvenli, profesyonel ve unutulmaz deneyimler.",
     "pagesTitle": "Sayfalar",
     "infoTitle": "Bilgiler",
     "hours": "Her Gün 09:30 - 18:00",
-    "phone": "+90 544 830 20 17",
-    "location": "Konyaaltı Sahil Yaşam Parkı, Antalya",
+    "phone": "0532 589 46 43",
+    "location": "Kemeragzi Mahallesi, Aksu Antalya",
     "copyright": "2026 Saraylar Diyarı Water Sports. Tüm hakları saklıdır.",
     "company": "SKD Group — Antalya, Türkiye"
   },

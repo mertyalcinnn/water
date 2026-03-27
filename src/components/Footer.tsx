@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
+import { BRAND_LOCATION, WHATSAPP_URL } from "@/lib/site";
 
 interface FooterProps {
   dict: {
@@ -38,7 +39,7 @@ export default function Footer({ dict }: FooterProps) {
             </p>
           </div>
           <a
-            href="https://wa.me/905448302017"
+            href={WHATSAPP_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="btn-light px-6 py-3.5"
@@ -62,7 +63,7 @@ export default function Footer({ dict }: FooterProps) {
               </div>
               <div className="flex flex-col">
                 <span className="text-[0.68rem] font-medium uppercase tracking-[0.24em] text-white/46">
-                  Konyaalti Beach Park
+                  {BRAND_LOCATION}
                 </span>
                 <span className="font-display text-lg leading-none text-white">
                   SARAYLAR D&#304;YARI
