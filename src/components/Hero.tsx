@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
 
 interface HeroProps {
@@ -106,21 +107,28 @@ export default function Hero({
             <div className="absolute -left-10 top-12 h-24 w-24 rounded-full bg-sea-400/24 blur-3xl animate-drift" />
             <div className="absolute -right-6 bottom-10 h-28 w-28 rounded-full bg-coral-400/20 blur-3xl animate-drift-delayed" />
             <div className="surface-panel-dark relative overflow-hidden rounded-[2rem] p-4 sm:p-6">
-              <div className="rounded-[1.8rem] border border-white/10 bg-[linear-gradient(160deg,rgba(255,255,255,0.12),rgba(255,255,255,0.02))] p-6">
-                <div className="flex items-center justify-between gap-3">
-                  <span className="text-[0.7rem] font-medium uppercase tracking-[0.24em] text-white/55">
+              <div className="relative h-[320px] overflow-hidden rounded-[1.8rem] border border-white/10">
+                <Image
+                  src="/media/hero-jetski.jpg"
+                  alt="Jet ski experience on Antalya coast"
+                  fill
+                  priority
+                  loading="eager"
+                  sizes="(max-width: 1024px) 100vw, 40vw"
+                  className="object-cover"
+                />
+                <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(8,26,34,0.05),rgba(8,26,34,0.58)_68%,rgba(8,26,34,0.82))]" />
+                <div className="absolute inset-x-0 top-0 flex items-center justify-between p-6">
+                  <span className="rounded-full border border-white/14 bg-white/8 px-3 py-1.5 text-[0.68rem] font-medium uppercase tracking-[0.24em] text-white/72 backdrop-blur">
                     {dict.scrollDiscover}
                   </span>
                   <span className="h-2.5 w-2.5 rounded-full bg-sea-400 shadow-[0_0_22px_rgba(136,199,203,0.8)]" />
                 </div>
-                <p className="mt-8 max-w-sm text-lg leading-8 text-white/84">
-                  {dict.subtitle}
-                </p>
-                <div className="mt-8 flex flex-wrap gap-2">
+                <div className="absolute inset-x-0 bottom-0 p-6">
                   {serviceTitles.map((item) => (
                     <span
                       key={item}
-                      className="rounded-full border border-white/10 bg-white/7 px-3 py-2 text-xs font-medium tracking-[0.18em] text-white/66 uppercase"
+                      className="mr-2 inline-flex rounded-full border border-white/12 bg-white/8 px-3 py-2 text-xs font-medium tracking-[0.18em] text-white/80 uppercase backdrop-blur"
                     >
                       {item}
                     </span>

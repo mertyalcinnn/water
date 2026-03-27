@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
 
 interface FooterProps {
@@ -50,9 +51,14 @@ export default function Footer({ dict }: FooterProps) {
           <div>
             <div className="mb-5 flex items-center gap-4">
               <div className="flex h-11 w-11 items-center justify-center rounded-2xl border border-white/10 bg-white/8">
-                <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-gradient-to-br from-sea-500 to-coral-400 text-[0.78rem] font-semibold tracking-[0.18em] text-white">
-                  SD
-                </div>
+                <Image
+                  src="/media/logo-water-sports.png"
+                  alt="Saraylar Diyari Water Sports logo"
+                  width={34}
+                  height={34}
+                  className="rounded-xl object-contain"
+                  style={{ width: "auto", height: "auto" }}
+                />
               </div>
               <div className="flex flex-col">
                 <span className="text-[0.68rem] font-medium uppercase tracking-[0.24em] text-white/46">

@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useState, useEffect } from "react";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
 import LanguageSwitcher from "./LanguageSwitcher";
@@ -72,9 +73,15 @@ export default function Navbar({ dict, locale, langLabels }: NavbarProps) {
             <div
               className={`flex h-11 w-11 items-center justify-center rounded-2xl border transition-transform duration-300 group-hover:-translate-y-0.5 ${palette.icon}`}
             >
-              <div className="flex h-8 w-8 items-center justify-center rounded-xl bg-gradient-to-br from-sea-500 to-coral-400 text-[0.78rem] font-semibold tracking-[0.18em] text-white">
-                SD
-              </div>
+              <Image
+                src="/media/logo-water-sports.png"
+                alt="Saraylar Diyari Water Sports logo"
+                width={34}
+                height={34}
+                className="rounded-xl object-contain"
+                style={{ width: "auto", height: "auto" }}
+                priority
+              />
             </div>
             <div className="flex flex-col">
               <span className={`text-[0.68rem] font-medium uppercase tracking-[0.24em] ${palette.muted}`}>

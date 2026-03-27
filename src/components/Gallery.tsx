@@ -1,34 +1,29 @@
+import Image from "next/image";
 import type { Dictionary } from "@/app/[lang]/dictionaries";
 
 const galleryMeta = [
   {
-    gradient:
-      "bg-[linear-gradient(160deg,rgba(24,72,86,0.96),rgba(79,158,166,0.86))]",
+    image: "/media/hero-jetski.jpg",
     accent: "bg-sea-500",
   },
   {
-    gradient:
-      "bg-[linear-gradient(160deg,rgba(8,26,34,0.96),rgba(45,118,128,0.84))]",
+    image: "/media/gallery-parasailing.jpg",
     accent: "bg-navy-950",
   },
   {
-    gradient:
-      "bg-[linear-gradient(160deg,rgba(19,41,53,0.96),rgba(191,111,75,0.78))]",
+    image: "/media/gallery-car-boat.jpg",
     accent: "bg-coral-500",
   },
   {
-    gradient:
-      "bg-[linear-gradient(160deg,rgba(191,111,75,0.92),rgba(222,142,103,0.82))]",
+    image: "/media/gallery-banana.jpg",
     accent: "bg-coral-400",
   },
   {
-    gradient:
-      "bg-[linear-gradient(160deg,rgba(14,51,61,0.96),rgba(49,112,120,0.84))]",
+    image: "/media/gallery-boat-tour.jpg",
     accent: "bg-sea-700",
   },
   {
-    gradient:
-      "bg-[linear-gradient(160deg,rgba(9,25,32,0.96),rgba(44,73,87,0.84))]",
+    image: "/media/gallery-ride.jpg",
     accent: "bg-navy-800",
   },
 ];
@@ -94,17 +89,24 @@ export default function Gallery({ dict }: GalleryProps) {
                   </div>
 
                   <div
-                    className={`relative h-48 overflow-hidden rounded-[1.6rem] border border-white/20 ${meta.gradient}`}
+                    className="relative h-48 overflow-hidden rounded-[1.6rem] border border-white/20"
                   >
+                    <Image
+                      src={meta.image}
+                      alt={item.title}
+                      fill
+                      sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 33vw"
+                      className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                    />
                     <div
-                      className="absolute inset-0 opacity-[0.14]"
+                      className="absolute inset-0 opacity-[0.12]"
                       style={{
                         backgroundImage:
                           "linear-gradient(rgba(255,255,255,0.14) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.14) 1px, transparent 1px)",
                         backgroundSize: "46px 46px",
                       }}
                     />
-                    <div className="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-black/35 to-transparent" />
+                    <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(8,26,34,0.02),rgba(8,26,34,0.14)_48%,rgba(8,26,34,0.72))]" />
                     <div className="absolute bottom-0 left-0 right-0 p-5">
                       <div className="text-[0.68rem] font-semibold uppercase tracking-[0.24em] text-white/62">
                         {item.subtitle}
